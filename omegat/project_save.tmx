@@ -12,8 +12,8 @@
       <tuv lang="en">
         <seg>Bar.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20231204T175604Z" creationid="souto" creationdate="20231204T175604Z">
-        <seg>xyz</seg>
+      <tuv lang="es-ES" changeid="souto" changedate="20231204T175632Z" creationid="souto" creationdate="20231204T175604Z">
+        <seg>abc</seg>
       </tuv>
     </tu>
   </body>
