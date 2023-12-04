@@ -1,0 +1,68 @@
+{
+  "date": "20231204T183256Z",
+  "total": {
+    "characters-without-spaces": 8,
+    "characters": 8,
+    "words": 2,
+    "files": 1,
+    "segments": 2
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  },
+  "unique": {
+    "characters-without-spaces": 8,
+    "characters": 8,
+    "words": 2,
+    "files": 1,
+    "segments": 2
+  },
+  "project": {
+    "root": "/home/souto/Work/omegat-master-tm-commit-test/",
+    "source-language": "en",
+    "target-language": "es-ES",
+    "name": "omegat-master-tm-commit-test"
+  },
+  "files": [{
+    "total": {
+      "characters-without-spaces": 8,
+      "characters": 8,
+      "words": 2,
+      "files": 0,
+      "segments": 2
+    },
+    "filename": "file.txt",
+    "unique-remaining": {
+      "characters-without-spaces": 0,
+      "characters": 0,
+      "words": 0,
+      "files": 0,
+      "segments": 0
+    },
+    "unique": {
+      "characters-without-spaces": 8,
+      "characters": 8,
+      "words": 2,
+      "files": 0,
+      "segments": 2
+    },
+    "remaining": {
+      "characters-without-spaces": 0,
+      "characters": 0,
+      "words": 0,
+      "files": 0,
+      "segments": 0
+    }
+  }],
+  "remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  }
+}
