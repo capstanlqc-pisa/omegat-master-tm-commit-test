@@ -12,14 +12,6 @@
         <seg>y</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Foo.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="souto" changedate="20231204T173221Z" creationid="souto" creationdate="20231204T173221Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
