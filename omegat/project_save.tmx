@@ -5,5 +5,16 @@
   <body>
 <!-- Default translations -->
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">file.txt</prop>
+      <prop type="prev">Foo.</prop>
+      <prop type="next"></prop>
+      <tuv lang="en">
+        <seg>Bar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="souto" changedate="20231204T175604Z" creationid="souto" creationdate="20231204T175604Z">
+        <seg>xyz</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
